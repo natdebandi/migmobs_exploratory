@@ -2,7 +2,7 @@
 
 This notebook is an exploratory work of mobility and migration data from the MIGMOBS-LATAM project.
 
-A. Indicators database constructed
+**A. Indicators database constructed**
 
 Notebook:
 [dataset_construction_v3.ipynb](https://github.com/natdebandi/migmobs2/blob/261891da54feb6231536a6b91b2f2c8e6a24707a/dataset_construction_v3.ipynb)
@@ -31,7 +31,15 @@ In addition, data were consolidated from:
   
 - Censorship data from Argentina
 
+**B. Migration data exploration**
 
+Notebook:
+
+[migration_v1.0.ipynb](https://github.com/natdebandi/migmobs2/blob/cc9e7b13eda8e6437ca39e14bc955635e261369a/migration_v1.0.ipynb)
+
+**C. Mouvements and migration data exploratory analysis**
+
+Esta notebook indaga en los datos de la base de datos [Global Transnational mobility database](https://migrationpolicycentre.eu/global-mobilities/) y los analiza en relación a los datos migratorios
 
 
 

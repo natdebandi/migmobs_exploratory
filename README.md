@@ -41,5 +41,10 @@ Notebook:
 
 Esta notebook indaga en los datos de la base de datos [Global Transnational mobility database](https://migrationpolicycentre.eu/global-mobilities/) y los analiza en relación a los datos migratorios
 
+Notebook:
+
+[mobility_v2-0.ipynb](https://github.com/natdebandi/migmobs2/blob/f92c28c49badb4cafb4134c55ca45976aba3e658/mobility_v2-0.ipynb)
+
+
 
 

@@ -29,7 +29,7 @@ In addition, data were consolidated from:
   
 - Temporary and permanent residences in Argentina and Chile (DNM and SERMIG).
   
-- Censorship data from Argentina
+- Census data from Argentina
 
 **B. Migration data exploration**
 
